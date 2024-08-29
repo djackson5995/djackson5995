@@ -21,6 +21,11 @@ Continue learning and contributing to projects that push the boundaries of techn
 Build a network of like-minded professionals passionate about software development and innovation.
 🎉 Fun Gifs to Brighten Your Day!
 <div id="fun-gifs" align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Fun"/> <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="300" alt="Learning New Tech"/> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif" width="400" alt="When Your Code Works"/>
+</div>
+
+
 Feel free to explore my repositories and connect with me to discuss potential collaborations or just to chat about tech!
 
 Looking forward to making a positive impact in the tech world!
